@@ -1,6 +1,9 @@
 # Rock-Paper-Scissors
 
 This is a simple Rock-Paper-Scissors game implemented in JavaScript.
+
+[Live site](https://aneal07.github.io/Rock-Paper-Scissors/)
+
 ## How to Play
 
 1. Choose your move by entering the corresponding number:
